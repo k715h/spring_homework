@@ -1,4 +1,4 @@
-package repogitory;
+package repository;
 
 import vo.BoardVO;
 import vo.UserVO;

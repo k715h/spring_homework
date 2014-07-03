@@ -1,6 +1,6 @@
 package dao;
 
-import repogitory.Database;
+import repository.Database;
 import vo.VO;
 
 import java.util.Collections;
